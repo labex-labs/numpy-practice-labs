@@ -42,13 +42,13 @@ This course contains lots of labs for NumPy, each lab is a small NumPy project w
 |      29 | 📖 Using the NumPy char.lower Function                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86477'>Start Lab</a>  |
 |      30 | 📖 Numpy Dot Function                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86429'>Start Lab</a>  |
 |      31 | 📖 Numpy Accessing Array Elements Iteration              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86381'>Start Lab</a>  |
-|      32 | 📖 NumPy Data Types                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86425'>Start Lab</a>  |
+|      32 | 📖 NumPy Datatype Exploration                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86425'>Start Lab</a>  |
 |      33 | 📖 NumPy STD Function                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86508'>Start Lab</a>  |
 |      34 | 📖 NumPy Advance Indexing                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86385'>Start Lab</a>  |
 |      35 | 📖 NumPy Array Function                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86400'>Start Lab</a>  |
 |      36 | 📖 Introduction to NumPy Universal Functions             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85705'>Start Lab</a>  |
 |      37 | 📖 Numpy Isdigit Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86460'>Start Lab</a>  |
-|      38 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85698'>Start Lab</a>  |
+|      38 | 📖 Fundamental NumPy Array Creation Techniques           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85698'>Start Lab</a>  |
 |      39 | 📖 Numpy Isnumeric Function                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86462'>Start Lab</a>  |
 |      40 | 📖 Numpy Left Shift Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86471'>Start Lab</a>  |
 |      41 | 📖 Generating Evenly Spaced Numbers with NumPy           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86473'>Start Lab</a>  |
@@ -60,7 +60,7 @@ This course contains lots of labs for NumPy, each lab is a small NumPy project w
 |      47 | 📖 NumPy Trunc Function                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86514'>Start Lab</a>  |
 |      48 | 📖 NumPy Isdecimal Function                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86458'>Start Lab</a>  |
 |      49 | 📖 NumPy Isspace Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86464'>Start Lab</a>  |
-|      50 | 📖 NumPy Data Types                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85701'>Start Lab</a>  |
+|      50 | 📖 Understanding NumPy Data Types                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85701'>Start Lab</a>  |
 |      51 | 📖 Numpy Ceil Function                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86414'>Start Lab</a>  |
 |      52 | 📖 Using the Add Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86383'>Start Lab</a>  |
 |      53 | 📖 NumPy Encode Function                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86433'>Start Lab</a>  |
@@ -79,10 +79,10 @@ This course contains lots of labs for NumPy, each lab is a small NumPy project w
 |      66 | 📖 NumPy Fromiter Function                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86445'>Start Lab</a>  |
 |      67 | 📖 NumPy Startswith Function                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86506'>Start Lab</a>  |
 |      68 | 📖 Create Confusion Matrix                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300201'>Start Lab</a> |
-|      69 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86395'>Start Lab</a>  |
+|      69 | 📖 Creating Empty, Zeroes, and Ones Arrays               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86395'>Start Lab</a>  |
 |      70 | 📖 Creating a NumPy Array Using Existing Data            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86398'>Start Lab</a>  |
 |      71 | 📖 Numpy Reshape Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86496'>Start Lab</a>  |
-|      72 | 📖 ASCII Art Animation With OpenCV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298850'>Start Lab</a> |
+|      72 | 📖 ASCII Art Animation With OpenCV (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298850'>Start Lab</a> |
 
 ## More
 
