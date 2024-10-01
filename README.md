@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                      |
-|---------|--------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                      |
+|---------|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 NumPy Array Mean Calculation                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-numpy-array-mean-calculation-86481'>Start Lab</a>                  |
 |      02 | 📖 NumPy Median Function                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-numpy-median-function-86483'>Start Lab</a>                         |
 |      03 | 📖 NumPy Broadcasting for Efficient Computation  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-broadcasting-for-efficient-computation-85702'>Start Lab</a>   |
